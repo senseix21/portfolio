@@ -1,0 +1,9 @@
+.first {
+    font-family: 'Poor Story', cursive;
+}
+.half-width {
+    width: 50%;
+}
+.flexible-container {
+    display: flex;
+}
