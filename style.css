@@ -1,9 +1,28 @@
 .first {
-    font-family: 'Poor Story', cursive;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: white;
+}
+h1 {
+    font-size: 40px;
 }
 .half-width {
-    width: 50%;
+    width: 80%;
+    padding-left: 8%;
+    color: azure;
+}
+.half-width img {
+    width: 90%;
+    float: left;
 }
 .flexible-container {
     display: flex;
+}
+.link-button {
+    background-color:orangered;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
 }
